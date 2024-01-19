@@ -23,4 +23,4 @@ For this project, I was responsible for programming the club page on the Manoa N
 
 ```
 
-You can learn more on the Manoa Now App or at https://www.manoanow.org/.
+You can learn more on the Manoa Now App or at [Manoa Now](https://www.manoanow.org/).
