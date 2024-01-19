@@ -15,7 +15,8 @@
   },
   "interests": [
     { "name": "Web Development" },
-    { "name": "Data Science" }
+    { "name": "Data Science" },
+    { "name": "Software Engineering" }
   
   ],
   "skills": [
