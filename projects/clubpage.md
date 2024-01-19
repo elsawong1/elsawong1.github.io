@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/62243.jpg
 title: "Club Page"
 date: 2023
 published: true
@@ -23,4 +23,4 @@ For this project, I was responsible for programming the club page on the Manoa N
 
 ```
 
-You can learn more on the Manoa Now App or at (https://www.manoanow.org/).
+You can learn more on the Manoa Now App or at https://www.manoanow.org/.
