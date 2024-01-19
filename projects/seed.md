@@ -23,4 +23,4 @@ In my role as Co-Founder and current Co-President of SEƐD, I have been involved
 
 While SEƐD is farily new, I think I have learned the most from it.  I've gained insights into effective leadership, from the mountains of paperwork and communcation between members, officers, and various departments at University of Hawaii at Manoa. Overall, SEƐD has not only allowed me to explore my interests but has also been a rich source of learning about leadership, organization, and the operational aspects of running a student-led club.
 
-Join our [Manoa Now](https://discord.gg/VcjpKDbRmt)
+Join our [Discord](https://discord.gg/VcjpKDbRmt)
