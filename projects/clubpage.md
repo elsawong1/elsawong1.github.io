@@ -11,9 +11,7 @@ summary: "I developed a page on the ManoaNow app that displays all the RIOS/club
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/62243.jpg" class="img-thumbnail" >
 </div>
 
 The Manoa Now app is a mobile application that serves as a highly useful tool for students at the University of Hawaii at Manoa to stay connected and informed. It provides a comprehensive set of features for students to access all essential information, including events, campus security, and more.
