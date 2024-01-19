@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/girls summer.png
 title: "Project Girls Who Code Program"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ summary: "Girls Who Code Program"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/girls who code.png" class="img-thumbnail" >
 </div>
 
 
