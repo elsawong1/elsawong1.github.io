@@ -12,7 +12,7 @@ labels:
 summary: "Create an RIO called SEƐD (STEAM. Exploration. 3D. Design.) at Univeristy of Hawaii at Manoa."
 ---
 
-<img class="img-fluid" src="../img/Brochure.pdf">
+<img class="img-fluid" src="../img/Brochure.png">
 
 SEƐD (STEAM. Exploration. 3D. Design.) is a newly established RIO at the University of Hawaii at Manoa, led by students with the purpose of creating a safe space for individuals to explore STEAM disciplines and engage in 3D printing and design. Our overarching goal is to utilize these disciplines for community service initiatives that contribute to the betterment of our local community. Founded by my friend and me, SEƐD emerged from a shared desire to explore our interests without reservation and to learn collectively while making a positive impact on the community.
 
