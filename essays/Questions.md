@@ -19,5 +19,6 @@ In Eric S. Raymond’s essay “ How To Ask Questions The Smart Way,” provides
 
 Contrastingly, a not-so-smart question is a question that is vague and lacks effort. One example of a no-so-smart question found on Stack Overflow is titled “What is the maximum value for an int32” (URL provided at the end of the essay. In this question, the person who asked the question said “ I can never remember the number. I need a memory rule.” Off the bat, we can see that this question could easily be looked up online.  The answers reflect this and they are very jokingly answering this question and are very sarcastic. This question beings for the “STFW”, also known as “Search The Fucking Web” as Eric S. Raymond describes in his essay. Thus, this is definitely a not-so-smart question.
 
-[Smart Question] (https://stackoverflow.com/questions/77864925/how-to-install-python-package-eelbrain-on-macos)
-[Not-So-Smart Question] (https://stackoverflow.com/questions/94591/what-is-the-maximum-value-for-an-int32)
+Here is a link to:
+[Smart Question](https://stackoverflow.com/questions/77864925/how-to-install-python-package-eelbrain-on-macos)
+[Not-So-Smart Question](https://stackoverflow.com/questions/94591/what-is-the-maximum-value-for-an-int32)
