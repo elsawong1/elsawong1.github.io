@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Beauty is Pain?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-02-07
 published: true
 labels:
   - Software Engineering
