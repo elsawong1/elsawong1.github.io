@@ -13,7 +13,7 @@ labels:
 
 ---
 
-<img width="100px" class="rounded float-start pe-4" src= "https://www.creativefabrica.com/wp-content/uploads/2020/11/17/Christmas-Present-Gift-Box-Asset-Vector-Graphics-6658356-2-580x387.jpg" >
+<img width="300px" class="rounded float-start pe-4" src= "https://www.creativefabrica.com/wp-content/uploads/2020/11/17/Christmas-Present-Gift-Box-Asset-Vector-Graphics-6658356-2-580x387.jpg" >
 
 Design patterns as a whole are patterns that essentially provide a template or a general guideline on how to structure code to solve a particular problem effectively while at the same time making it efficient and reusable, so that other programmers can read it easily and potentially reuse it. Design patterns can be applied to various situations and basically demonstrate the best practices in software development due to their ability to help developers communicate more efficiently about software design and make it easier to understand and maintain difficult systems. Design patterns are like trees, where they branch out from the root into specific branches and leaves. In design patterns, it is sectioned into 3 main categories, Creational, Structural, and Behavioral design patterns. Then in these 3 main categories, it expands further into more specific design patterns.
 
