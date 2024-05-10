@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LandingPage2.png
+image: img/AcademiaArenaIcon.png
 title: "Academia Arena: ICS Professor"
 date: 2024
 published: true
@@ -22,5 +22,7 @@ Academia Arena: ICS Edition is a combination the excitment of collecting trading
 In this project, my main contribution was the implementation of a wishlist feature. Users can now browse through the catalog of professor cards and heart the ones they like to add them to their wishlist. Thus allows users to keep track of the cards they are interested in, making it eaiser for them to manage their collections and plans for future trades. 
 
 From this experience, I have learned the valuable lesson of buiilding a functional web application using different software engineering tools such a meteor and the database, MongoDB. I learned how to structure and manage data effectively within a database, as well as how to integrate database functionality into a web application. Additionally, since this was a group project, I also gained experience in agile project management. Collaborating with team members and organizing tasks using agile principles and using GitHub's project management features helped us stay organized and focused throughout the development process.
+
+In conclusion, the Professor Trading Card Game project has been an exciting journey of learning and collaboration. Through my contributions, I was able to enhance the user experience by implementing a wishlist feature, allowing users to track their favorite professor cards easily. This project provided me with valuable insights into web application development, database management, and agile project management methodologies. I am grateful for the experiences gained throughout this project. I look forward to applying these lessons to future projects. 
 
 For those interested in exploring the source code and learning more about the project, please visit our organization's GitHub page: [Organization GitHub Page](https://academia-arena.github.io/)
