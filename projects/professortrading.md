@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LandingPage2.jpg
+image: img/LandingPage2.png
 title: "Academia Arena: ICS Professor"
 date: 2024
 published: true
