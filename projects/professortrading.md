@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://academia-arena.github.io/images/LandingPage2.png"
+image: img/LandingPage2.jpg
 title: "Academia Arena: ICS Professor"
 date: 2024
 published: true
